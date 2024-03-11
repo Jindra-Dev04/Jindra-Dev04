@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/gamabe"><img src="./devcard.png" width="356" alt="Jindřich Jakubička's Dev Card"/></a>
+
 <!--
 **Jindra-Dev04/Jindra-Dev04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
