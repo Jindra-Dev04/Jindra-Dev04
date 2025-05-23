@@ -20,6 +20,7 @@ I'm passionate about building, automating, and scaling modern infrastructure. My
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
+## Socials
 
 <a href="https://app.daily.dev/gamabe"><img src="./devcard.png" width="356" alt="Jindřich Jakubička's Dev Card"/></a>
 
